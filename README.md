@@ -1,2 +1,2 @@
 # hi
-a dumb person doing dumb things.
+i do dumb stuff on the internet.
