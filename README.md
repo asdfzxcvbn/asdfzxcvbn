@@ -7,7 +7,6 @@ i like to do dumb stuff. never taken any programming classes.
 
 github gives you 6 pinned repos max. here's some cool (open source) stuff i've made:
 
-- ~~[pyzule](https://github.com/asdfzxcvbn/pyzule): an azule "clone" written in python3~~
 - [cyan](https://github.com/asdfzxcvbn/pyzule-rw): an azule "clone" that doesn't suck!
 - [quin](https://github.com/asdfzxcvbn/quin): quickly inject dylibs into an IPA without fully unzipping
 - [appdupe](https://github.com/asdfzxcvbn/appdupe): a cli tool to duplicate iOS apps "correctly"
