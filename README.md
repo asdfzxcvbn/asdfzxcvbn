@@ -1,2 +1,4 @@
 # hi
-check the pinned repos i think they're pretty cool and everything else kinda sucks
+well, all these repos are slop
+
+maybe my 2027 software will be better !?
